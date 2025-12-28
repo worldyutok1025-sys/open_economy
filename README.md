@@ -26,7 +26,16 @@ The project is designed as a research-oriented, replication-ready macro-finance 
 ## Methods
 - Correlation analysis
 - Time-series visualization
-- Regime-based interpretation (no structural estimation yet)
+- Regime-based interpretation (no structural estimation yet)\
+
+## code
+- double_axis.py is the code to compare USD/JP exchange rate to JP with simple graph.
+- if you have FRED API key, you can execute  it quickely.
+- SVAR_IRF is the code to plot IRF of each shocks.cholesky.py is the function to execute this file.
+- SVAR is based on Structural Vector Autoregressive Analysis by by Lutz Kilian (Author), Helmut Lütkepohl (Author).
+- mistake can exist.if you notice, plz let me.
+
+
 
 ## Status
 Ongoing research project.  
